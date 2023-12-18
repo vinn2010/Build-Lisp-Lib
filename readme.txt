@@ -12,3 +12,9 @@
 # Usage
 
   ./build-lisp-project.sh
+
+# Run test suite
+
+Install shunit2: sudo apt install shunit2 (debian)
+
+./test.sh
